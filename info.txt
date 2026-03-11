@@ -6,3 +6,4 @@ Que el alumno practique el flujo completo de trabajo en GitHub partiendo desde c
 
 Un pull request es una propuesta formal para integrar cambios de una rama a otra en un repositorio, donde otros pueden revisar, comentar y aprobar antes de fusionar.
 
+Esto es un cambio
