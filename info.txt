@@ -1,0 +1,8 @@
+Gamez Burgueno Luis Enrique
+
+10/03/2026
+
+Que el alumno practique el flujo completo de trabajo en GitHub partiendo desde cero: crear un repositorio nuevo, clonarlo, trabajar en una rama, realizar cambios y generar un Pull Request (PR).
+
+Un pull request es una propuesta formal para integrar cambios de una rama a otra en un repositorio, donde otros pueden revisar, comentar y aprobar antes de fusionar.
+
